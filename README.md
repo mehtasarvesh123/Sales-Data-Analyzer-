@@ -1,4 +1,4 @@
-<h1 align="center">🛒 Retail Sales Data Analysis</h1>
+<h1 align="center"> Retail Sales Data Analysis</h1>
 
 <p align="center">
   <b>Python Data Analysis Project</b><br>
