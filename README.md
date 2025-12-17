@@ -81,9 +81,14 @@ The project demonstrates a complete data analysis workflow.
 
 <h2>📊 Visualizations</h2>
 <p align="center">
-  <img src="images/revenue_by_category.png" width="450"><br><br>
-  <img src="images/gender_revenue.png" width="450">
-</p>
+  <img src="images/total revenue by product category.png" width="450"><br><br>
+  <img src="images/total profit by product category.png" width="450">
+   <img src="images/Revenue by Gender.png" width="450">
+   <img src="images/Profit By Gender.png" width="450">
+   <img src="images/Distribution of revenue per transaction.png" width="450">
+    <img src="images/Distribution of Profit per Transaction.png" width="450">
+    <img src="images/Quantity vs Revenue.png" width="450">
+  <img src="images/Price per Unit vs Revenue.png" width="450">
 
 <hr>
 
